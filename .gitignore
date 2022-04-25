@@ -1,1 +1,4 @@
 /creds
+/compiled
+/dist
+/node_modules
